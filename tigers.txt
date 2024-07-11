@@ -1,0 +1,6 @@
+team : 타이거
+manager : 홍길동
+menber : 
+-철수
+-영희
+-민수
