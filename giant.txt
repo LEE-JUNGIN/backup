@@ -1,0 +1,6 @@
+team : 자이언트
+manager : asdf
+menber : 
+-qwer
+-asdf
+-zxcv
